@@ -5,7 +5,7 @@ You can create posts, change it and delete. You can write comments, follow by so
 ## How to launch a project:
 Clone the repository and go to it on the command line:
 
-`git clone https://github.com/Antochino/api_final_yatube.git`
+`git clone https://github.com/ElizavetaAlferova/Api_final_yatube.git`
 
 `cd yatube_api/`
 
@@ -57,5 +57,5 @@ REST API, Viewsets, routers, JWT, serializers, permissions, limits, pagination, 
 
 ### Author: 
 
-Ilichev Anton.
+Ilicheva Elizaveta.
 
